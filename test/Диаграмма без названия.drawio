@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T19:31:34.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wdusdmxGjI5QLQEZH7oi" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T19:39:49.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZbO4vf65WujQ8bTXSRZI" version="20.8.3" type="github">
   <diagram name="Page-1" id="5987fedf-629e-85c4-6858-42fee31821dd">
-    <mxGraphModel dx="3000" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="2879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -202,6 +202,54 @@
         </mxCell>
         <mxCell id="N-NY0FsHpWJ1mGwXRo1y-90" value="MSSQL DB&lt;br&gt;Турникеты Sever" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=10;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2480" y="1280" width="185" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-98" value="Артемов С" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=40;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="315" y="-40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-102" value="Илларионов С" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=40;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="718" y="-215" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-104" value="Акатьев А" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=40;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-105" value="Дулгер Д" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=40;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-108" value="Дулгер Д" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=40;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="1103" y="-70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-109" value="Акатьев А" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=40;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="-70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-111" value="Илларионов С" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=20;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="579" width="30" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-113" value="Илларионов С" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=20;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="585.75" width="30" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-114" value="?" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=20;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="670.75" width="30" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-117" value="?" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=20;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="965.25" y="820" width="30" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-118" value="?" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=20;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="810.5" width="30" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-119" value="Акатьев А" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=40;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="719" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-121" value="Илларионов С" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=40;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="1555" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-122" value="Акатьев А" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=40;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="1812" y="1700" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-123" value="Дулгер Д" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=40;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="1812" y="1410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-NY0FsHpWJ1mGwXRo1y-124" value="Дулгер Д" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=9;fontSize=40;gradientColor=#FFE5CF;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="-250" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
